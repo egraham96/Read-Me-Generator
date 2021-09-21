@@ -19,7 +19,7 @@ Download this repository. Install the inquirer and FS node modules (For example,
 
 ## Preview of Working Site:
 ![Screenshot of Deployed Application](Assets/ScreenshotofDeployedApplication.PNG)
-![Screenshot of Example ReadMe](Assets/AnotherScreenshotofExampleReadMe.PNG)
+![Screenshot of Example ReadMe](Assets/GeneratedExampleReadMe.md)
 
 ## How to Contribute:
 If you'd like to contribute to this project please send an email to eeg4@uw.edu or message me on github: egraham96.
